@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/kai-karo/static/css/main.f4becd88.css",
+    "main.js": "/kai-karo/static/js/main.1d90aed2.js",
+    "static/media/hyundai.svg": "/kai-karo/static/media/hyundai.2a5ffbd01f449452c7406184358c43f1.svg",
+    "static/media/bmw.svg": "/kai-karo/static/media/bmw.ede3d908e7bcc7aa75a5d6632be7117b.svg",
+    "static/media/toyota.svg": "/kai-karo/static/media/toyota.5e47526fee64895545e1247baec57205.svg",
+    "static/media/kai and karo.svg": "/kai-karo/static/media/kai and karo.c10698681080e53fa214a83194cde94a.svg",
+    "static/media/logo-dark-mode.svg": "/kai-karo/static/media/logo-dark-mode.3cda0854c81ac4385075462bbd714b1b.svg",
+    "static/media/range.webp": "/kai-karo/static/media/range.18b312c64fa3ca0499aa.webp",
+    "static/media/nissan.svg": "/kai-karo/static/media/nissan.8ebf0f07b9127bef82ba0a9cf3e108ef.svg",
+    "static/media/mazda.svg": "/kai-karo/static/media/mazda.8b0e0d5a8fa1de1bf5269d2cceeccec3.svg",
+    "static/media/convertibles.svg": "/kai-karo/static/media/convertibles.f25d1871eeea68bdc18f2804852306cb.svg",
+    "static/media/suvs.svg": "/kai-karo/static/media/suvs.db5cc6b7b36aecb8d2f93ec0d49c40c8.svg",
+    "static/media/vans.svg": "/kai-karo/static/media/vans.bcb0b376243a03e5e3cedfe282ffd270.svg",
+    "static/media/hatchbacks.svg": "/kai-karo/static/media/hatchbacks.24775f71363c9f113281829ec01c4a90.svg",
+    "static/media/pickups.svg": "/kai-karo/static/media/pickups.8fbe60e62952bc90ed322d672ced6261.svg",
+    "static/media/saloons.svg": "/kai-karo/static/media/saloons.3173ac4c7d655f3dd02c9fa4f9151328.svg",
+    "static/media/subaru.svg": "/kai-karo/static/media/subaru.1c9328f7a9938674e72af5fb9ff3eb00.svg",
+    "static/media/land_rover.svg": "/kai-karo/static/media/land_rover.3b80a10047a31178e0f656fed9f2a10b.svg",
+    "static/media/lexus.svg": "/kai-karo/static/media/lexus.8ddedc04ed3febb3f7711a26ea327b5f.svg",
+    "static/media/honda.svg": "/kai-karo/static/media/honda.b15e9247211ca067e56dbb20135a85e7.svg",
+    "static/media/VW.svg": "/kai-karo/static/media/VW.4341922db7c15ea8aef6c866f6ee791f.svg",
+    "index.html": "/kai-karo/index.html",
+    "static/media/mercedes.svg": "/kai-karo/static/media/mercedes.b142dae3571fcd3550a589552cd5b977.svg",
+    "static/media/audi.svg": "/kai-karo/static/media/audi.7d0b26f5e909bcadf6c913e18d770722.svg",
+    "main.f4becd88.css.map": "/kai-karo/static/css/main.f4becd88.css.map",
+    "main.1d90aed2.js.map": "/kai-karo/static/js/main.1d90aed2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4becd88.css",
+    "static/js/main.1d90aed2.js"
+  ]
+}
