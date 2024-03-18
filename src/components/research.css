@@ -1,0 +1,100 @@
+.research{
+    width: 80%;
+    display: flex;
+    align-items:center;
+    margin: auto;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.optimize {
+    width: 100%;
+   
+}
+
+.optimize ul {
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.optimize ul li{
+    list-style: none;
+    cursor: pointer;
+    margin: 0px;
+    padding: 0px;
+}
+
+ .after{
+    width: 70%;
+    height: 3px;
+    border-radius: 1.5px;
+    outline: none;
+    border:0;
+    background: var(--primary-color);
+    margin: 0 auto 20px;
+
+}
+
+.under{
+    position: relative;
+    height: 3px;
+    border-radius: 1.5px;
+    background:var(--secondary-color);
+    border: 0;
+    outline: 0;
+    top: 10px;
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.container{
+    width: 50%;
+    margin: 0px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+    position: relative;
+    
+}
+
+.brand{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    flex-wrap: wrap;
+    height: fit-content;
+
+   
+}
+
+.tile{
+    width: 33%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #efefef;
+    height: 150px;
+}
+
+.tile img{
+    width:40% ;
+    margin: auto;
+}
+
+@media(max-width:600px){
+    .container{
+        width: 80%;
+    }
+    .research{
+        text-align: center;
+    }
+
+    .research h1{
+        font-size: 22px;
+    }
+}

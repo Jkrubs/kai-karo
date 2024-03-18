@@ -1,0 +1,45 @@
+.main{
+    width:  60%;
+    margin:20px auto;
+    border: 1px solid #000;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: var(--footer-bg);
+}
+
+.main p{
+    font-size: 12px;
+}
+.main p span{
+    font-weight: bold;
+}
+
+.processes{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.process{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+.process i{
+    font-size: 70px;
+}
+
+@media(max-width:600px){
+    .main{
+        width:80% ;
+    }
+    .processes{
+        flex-direction: column;
+        gap: 20px;
+    }
+}
