@@ -6,6 +6,7 @@
     flex-direction: column;
 }
 
+
 .hero img{
     width: 50%;
 }
@@ -41,8 +42,9 @@
         justify-content: space-evenly;
     }
     .hero img{
-        width: 80%;
+        width: 100%;
     }
+    
     .btn{
         display: flex;
         align-items: center;
@@ -52,6 +54,12 @@
 
     .btn button{
         width: 100%;
-        margin: 15px 0px;
+        margin: 5px 0px;
+    }
+}
+
+@media(max-width:378px){
+    .hero h1{
+        font-size: 26px;
     }
 }

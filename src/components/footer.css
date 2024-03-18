@@ -95,4 +95,9 @@
     .company, .newsletter{
         margin-left: 20px;
     }
+
+    .newsletter input{
+        width: 250px;
+    }
+
 }

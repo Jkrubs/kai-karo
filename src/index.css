@@ -20,13 +20,15 @@ code {
   --background-color:#f0f8ff;
   --footer-bg:rgba(163, 251, 233, 0.2);
   --text-color:#000;
+  --submenu-color:#f0f8ff
 }
 .toggleTheme{
   --primary-color:#111;
   --secondary-color:#ebebeb;
   --background-color:#21212121;
   --footer-bg:#000000;
-  --text-color:#f0f8ff
+  --text-color:#f0f8ff;
+  --submenu-color:#000;
 }
 body{
   background-color: var(--primary-color);
