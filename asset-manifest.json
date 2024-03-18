@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kai-karo/static/css/main.d64a3b2a.css",
+    "main.css": "/kai-karo/static/css/main.ecfd2254.css",
     "main.js": "/kai-karo/static/js/main.1d90aed2.js",
     "static/media/hyundai.svg": "/kai-karo/static/media/hyundai.2a5ffbd01f449452c7406184358c43f1.svg",
     "static/media/bmw.svg": "/kai-karo/static/media/bmw.ede3d908e7bcc7aa75a5d6632be7117b.svg",
@@ -24,11 +24,11 @@
     "index.html": "/kai-karo/index.html",
     "static/media/mercedes.svg": "/kai-karo/static/media/mercedes.b142dae3571fcd3550a589552cd5b977.svg",
     "static/media/audi.svg": "/kai-karo/static/media/audi.7d0b26f5e909bcadf6c913e18d770722.svg",
-    "main.d64a3b2a.css.map": "/kai-karo/static/css/main.d64a3b2a.css.map",
+    "main.ecfd2254.css.map": "/kai-karo/static/css/main.ecfd2254.css.map",
     "main.1d90aed2.js.map": "/kai-karo/static/js/main.1d90aed2.js.map"
   },
   "entrypoints": [
-    "static/css/main.d64a3b2a.css",
+    "static/css/main.ecfd2254.css",
     "static/js/main.1d90aed2.js"
   ]
 }
