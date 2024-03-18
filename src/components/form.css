@@ -16,7 +16,6 @@
     width: 97.9%;
     height: 30px;
     border: 1px solid var(--primary-color);
-    background: transparent;
     outline: none;
     margin-bottom: 10px;
     padding-left: 10px;
@@ -59,8 +58,8 @@
     height: 40px;
     border: 0;
     outline: none;
-    background-color: var(--secondary-color);
-    color: var(--background-color);
+    background-color: black;
+    color:#f0f8ff;
     font-weight: bold;
     margin: 10px 0px;
 }
